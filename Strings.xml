@@ -1,0 +1,35 @@
+resources>
+    <string name="app_name">NewsAppStage2</string>
+    <string name="section_name">Section Name</string>
+    <string name="web_publication_date">Web Publication Date</string>
+    <string name="web_title">Web Title</string>
+    <string name="author">Author</string>
+    <string name="no_articles_found_please_try_again_later">No articles found please try again later</string>
+    <string name="no_internet_connection_please_check_your_connectivity_and_try_again">No internet connection please check your connectivity and try again</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Article Settings</string>
+    <string name="settings_order_by_key">Settings Order By Key</string>
+    <string name="settings_order_by_default">Settings Order By Default</string>
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_newest_label">settings order by newest label</string>
+    <string name="settings_order_by_oldest_label">settings order by oldest label</string>
+    <string name="settings_order_by_relevance_label">settings order by relevance</string>
+
+    <string name="settings_order_by_newest_value">settings order by newest value</string>
+    <string name="settings_order_by_oldest_value">settings order by oldest value</string>
+    <string name="settings_order_by_relevance_value">settings order by relevance value</string>
+
+
+
+
+    <string name="settings_section_default_label">Settings Section Default</string>
+
+    <string name="settings_section_default_value">Default</string>
+    <string name="settings_section_key">section</string>
+    <string name="settings_section_default">settings_section_default</string>
+
+
+</resources>
+
+
+
